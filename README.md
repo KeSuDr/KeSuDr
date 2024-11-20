@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MapaDiaodai and I'm a Wolf, from Amazon Forest</h2>
+<h2 align="left">Hi 👋! My name is MapaDiaodai and I'm a Wolf, from Alaska Forest</h2>
 
 ###
 
