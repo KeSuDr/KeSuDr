@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkeTc5bXY3bjQ1MHdpOTByaTBodGYwbGhqZnk1YTZzOGNnMmliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bt6vn7g2cXRUsjJn9E/giphy.gif"  />
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc281NWFuZHNyeWR3eWhjam5yOWI5MThieTJ1OTFqM2hmcHVjNmF4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vNY5SLTJVLIGWKAYJp/giphy.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/kurukuru-kururing-herta-honkai-star-rail-gif-10795383770265459272"  />
 
 
 ###
